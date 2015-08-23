@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'Adds an ".active" class to links in a bootstrap3 navbar that point to current path',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/chrisallenmoore/bootstrap3-navbar-active-links',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
